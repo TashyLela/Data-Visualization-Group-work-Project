@@ -20,7 +20,7 @@ This project aims to analyze datasets, visualize key insights, and train a machi
 ## Setup Instructions
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/data-viz-ml-project.git
-cd data-viz-ml-project
+   git clone https://github.com/TashyLela/adult-income-project.git
+cd adult-income-project
 pip install -r requirements.txt
 jupyter notebook
